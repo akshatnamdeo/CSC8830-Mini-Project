@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Videos (large files)
+videos/
+
+# OS
+.DS_Store
+Thumbs.db

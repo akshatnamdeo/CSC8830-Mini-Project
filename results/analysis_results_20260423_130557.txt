@@ -1,0 +1,38 @@
+BLINK RATE AND FACIAL DIMENSIONS ANALYSIS
+
+Task A - Blink Rate:
+
+GX010751.MP4:
+  Total blinks: 72
+  Duration: 410.84 seconds
+  Blink rate: 0.1752 blinks/sec (10.5 blinks/min)
+
+GX010754.MP4:
+  Total blinks: 55
+  Duration: 536.1 seconds
+  Blink rate: 0.1026 blinks/sec (6.2 blinks/min)
+
+Overall average blink rate: 8.3 blinks per minute
+
+Task B - Facial Dimensions (approximate):
+
+GX010751.MP4:
+  Face height: 16.8 cm
+  Face width:  14.5 cm
+  Eye width:   2.7 cm
+  Nose length: 3.3 cm
+  Mouth width: 4.8 cm
+
+GX010754.MP4:
+  Face height: 16.5 cm
+  Face width:  14.5 cm
+  Eye width:   2.8 cm
+  Nose length: 3.4 cm
+  Mouth width: 4.8 cm
+
+Averages:
+  Face Height Cm: 16.6 cm
+  Face Width Cm: 14.5 cm
+  Eye Width Cm: 2.8 cm
+  Nose Length Cm: 3.4 cm
+  Mouth Width Cm: 4.8 cm
